@@ -2,8 +2,8 @@
   "manifest_version": 1,
   "marketplace": "future-economy",
   "bundles": {
-    "notion-tools": "0.1.1",
-    "atlas-tools": "0.2.0",
-    "assay-tools": "0.1.1"
+    "notion-tools": "0.1.2",
+    "atlas-tools": "0.2.1",
+    "assay-tools": "0.1.2"
   }
 }
