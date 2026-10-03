@@ -3,7 +3,7 @@
   "marketplace": "future-economy",
   "bundles": {
     "notion-tools": "0.1.2",
-    "atlas-tools": "0.3.1",
+    "atlas-tools": "0.3.2",
     "assay-tools": "0.1.2"
   }
 }
